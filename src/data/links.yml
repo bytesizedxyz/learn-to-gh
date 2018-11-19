@@ -7,3 +7,8 @@
   description: 'A super awesome link'
   posted_by: 'Kevin'
   url: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+
+- name : 'A super useful link'
+  description: 'The greatest memes on the planet'
+  posted_by: 'PotatoBaron'
+  url: 'https://www.youtube.com/watch?v=SAYkIUDVVE0'
